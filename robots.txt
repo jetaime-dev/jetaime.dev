@@ -1,0 +1,5 @@
+Sitemap: https://jetaime.dev/sitemap.xml
+
+User-Agent: *
+Allow: /
+
